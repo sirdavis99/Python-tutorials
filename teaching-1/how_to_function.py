@@ -13,7 +13,7 @@ def number_type(number):
      print('the number is odd')
 
 # number_type(31)
-def any_number(number):
+def  any_number(number):
     x = number * 10
     print(x)
 
